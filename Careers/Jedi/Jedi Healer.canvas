@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"21e94a103ee2467a","x":-200,"y":-240,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 1/Grit.md"},
+		{"id":"13cf6adcddf562fc","type":"text","text":"Career Skills: Athletics, Cool, Knowledge (Lore-Jedi), Meditation, Perception, Piloting (Space)\nSpecialization Career Skills: Knowledge (Education), Knowledge (Xenology), Medicine, Surgery","x":-200,"y":-360,"width":920,"height":80},
+		{"id":"1a403e10b6ebd3f1","x":320,"y":-240,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 3/Physician.md"},
+		{"id":"37e70514e8a1a307","type":"file","file":"Mechanic's/Talents/Tier 3/Physician.md","x":-200,"y":280,"width":400,"height":400},
+		{"id":"3598ced12d9c9589","type":"file","file":"Mechanic's/Talents/Tier 3/Healing Trance.md","x":320,"y":280,"width":400,"height":400},
+		{"id":"4048a639c941c2f0","type":"file","file":"Mechanic's/Talents/Tier 5/Force Rating.md","x":1360,"y":1840,"width":400,"height":400},
+		{"id":"c05d6b52e9b636dd","x":840,"y":800,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 5/Force Rating.md"},
+		{"id":"02f0f527776fc8d0","x":1360,"y":800,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 4/Knowledgeable Healing.md"},
+		{"id":"3bf1537662d6003e","x":1360,"y":-240,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 3/Surgeon.md"},
+		{"id":"e05ebeb4b70dddcb","type":"file","file":"Mechanic's/Talents/Tier 3/Surgeon.md","x":840,"y":280,"width":400,"height":400},
+		{"id":"730193792c8893bb","x":320,"y":1840,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 5/The Force Is My Ally.md"},
+		{"id":"7cdbb48346fbb807","x":840,"y":1320,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 5/Natural Doctor.md"},
+		{"id":"67a0c6ca089c6306","x":1360,"y":1320,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 5/Pressure Point.md"},
+		{"id":"e736e1164356065b","x":-200,"y":1840,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 4/Master Doctor.md"},
+		{"id":"02bbafcbdda44b3e","x":840,"y":1840,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 4/Master Surgeon.md"},
+		{"id":"490805ac57c383f5","type":"file","file":"Mechanic's/Talents/Tier 3/Healing Trance.md","x":320,"y":1320,"width":400,"height":400},
+		{"id":"1921f8901ee53de0","x":-200,"y":800,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 3/Healing Trance.md"},
+		{"id":"66b317616c0fdecf","x":840,"y":-240,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 1/Toughened.md"},
+		{"id":"7e3cc7d992f79bc7","x":1360,"y":280,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 2/Durable.md"},
+		{"id":"a2f7741e5bfa0a40","x":-200,"y":1320,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 4/Intuitive Remediation.md"},
+		{"id":"f2fb45a62d33d436","type":"file","file":"Mechanic's/Talents/Tier 3/Physician.md","x":320,"y":800,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"3bbf680b2750f648","fromNode":"1a403e10b6ebd3f1","fromSide":"bottom","toNode":"3598ced12d9c9589","toSide":"top","toEnd":"none"},
+		{"id":"42923e92a86e121e","fromNode":"3598ced12d9c9589","fromSide":"left","toNode":"37e70514e8a1a307","toSide":"right","toEnd":"none"},
+		{"id":"5594ea007d2b8423","fromNode":"c05d6b52e9b636dd","fromSide":"right","toNode":"02f0f527776fc8d0","toSide":"left","toEnd":"none"},
+		{"id":"cc9d29eaae64d3db","fromNode":"e05ebeb4b70dddcb","fromSide":"bottom","toNode":"c05d6b52e9b636dd","toSide":"top","toEnd":"none"},
+		{"id":"9c35685767df1f6b","fromNode":"02f0f527776fc8d0","fromSide":"bottom","toNode":"67a0c6ca089c6306","toSide":"top","toEnd":"none"},
+		{"id":"acbe3a667f1c87fe","fromNode":"67a0c6ca089c6306","fromSide":"left","toNode":"7cdbb48346fbb807","toSide":"right","toEnd":"none"},
+		{"id":"3d9b9ab4fce6e4fc","fromNode":"7cdbb48346fbb807","fromSide":"bottom","toNode":"02bbafcbdda44b3e","toSide":"top","toEnd":"none"},
+		{"id":"0b4607310147a038","fromNode":"02bbafcbdda44b3e","fromSide":"right","toNode":"4048a639c941c2f0","toSide":"left","toEnd":"none"},
+		{"id":"344d121843c0c0b8","fromNode":"37e70514e8a1a307","fromSide":"bottom","toNode":"1921f8901ee53de0","toSide":"top","toEnd":"none"},
+		{"id":"530a247d6434597a","fromNode":"3bf1537662d6003e","fromSide":"bottom","toNode":"7e3cc7d992f79bc7","toSide":"top","toEnd":"none"},
+		{"id":"2c64d82bcfaae1bd","fromNode":"7e3cc7d992f79bc7","fromSide":"left","toNode":"e05ebeb4b70dddcb","toSide":"right","toEnd":"none"},
+		{"id":"3ceaee5075819c52","fromNode":"490805ac57c383f5","fromSide":"left","toNode":"a2f7741e5bfa0a40","toSide":"right","toEnd":"none"},
+		{"id":"e3f5c6a8c23a3f24","fromNode":"a2f7741e5bfa0a40","fromSide":"bottom","toNode":"e736e1164356065b","toSide":"top","toEnd":"none"},
+		{"id":"dfdf8e0b134dbbc3","fromNode":"e736e1164356065b","fromSide":"right","toNode":"730193792c8893bb","toSide":"left","toEnd":"none"},
+		{"id":"945876f4f224dbff","fromNode":"1921f8901ee53de0","fromSide":"right","toNode":"f2fb45a62d33d436","toSide":"left","toEnd":"none"},
+		{"id":"790746a493e89bde","fromNode":"f2fb45a62d33d436","fromSide":"bottom","toNode":"490805ac57c383f5","toSide":"top","toEnd":"none"}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"26bb01cb0c04a850","type":"file","file":"Mechanic's/Talents/Tier 2/Jump Up.md","x":320,"y":-200,"width":400,"height":400},
+		{"id":"88247318a7890bb5","type":"file","file":"Mechanic's/Talents/Tier 1/Grit.md","x":-200,"y":-200,"width":400,"height":400},
+		{"id":"b5b506ffeb60740b","type":"file","file":"Mechanic's/Talents/Tier 2/Uncanny Senses.md","x":840,"y":-200,"width":400,"height":400},
+		{"id":"0c631e80acc6e899","type":"file","file":"Mechanic's/Talents/Tier 2/Sense Emotions.md","x":840,"y":320,"width":400,"height":400},
+		{"id":"34c2b602c08fdef3","type":"file","file":"Mechanic's/Talents/Tier 2/Uncanny Reactions.md","x":1360,"y":320,"width":400,"height":400},
+		{"id":"4383c69acf7112ec","type":"file","file":"Mechanic's/Talents/Tier 1/Grit.md","x":1360,"y":-200,"width":400,"height":400},
+		{"id":"67cf4060ce4edc61","type":"file","file":"Mechanic's/Talents/Tier 2/Parry.md","x":320,"y":320,"width":400,"height":400},
+		{"id":"f1d9379004e1d484","type":"file","file":"Mechanic's/Talents/Tier 2/Parry.md","x":-200,"y":320,"width":400,"height":400},
+		{"id":"69e8871170166a74","type":"file","file":"Mechanic's/Talents/Tier 2/Sense Emotions.md","x":1360,"y":840,"width":400,"height":400},
+		{"id":"83860c2ad707eef6","x":1360,"y":1360,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 5/Will Of The Force.md"},
+		{"id":"2c0da17397f6a444","x":1360,"y":1880,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 5/Dedication.md"},
+		{"id":"7dac56cd9b1e99f9","x":840,"y":1880,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 5/Force Rating.md"},
+		{"id":"47d66ff88b287d27","x":320,"y":840,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 2/Reflect.md"},
+		{"id":"e5312137f7cf1203","x":840,"y":840,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 3/Smooth Talker.md"},
+		{"id":"5363b93ea340b692","x":-200,"y":840,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 4/Saber Throw.md"},
+		{"id":"4e3db21a92fcd606","x":320,"y":1360,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 2/Reflect.md"},
+		{"id":"3c5d0c65f6011fbf","x":-200,"y":1360,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 3/Parry (Improved).md"},
+		{"id":"5582fd06990f545c","x":840,"y":1360,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 3/Reflect (Improved).md"},
+		{"id":"36e419629308df2e","x":-200,"y":1880,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 4/Circle Of Shelter.md"},
+		{"id":"75e15ac56dda77c6","x":320,"y":1880,"width":400,"height":400,"type":"file","file":"Mechanic's/Talents/Tier 6/Guardian Of The Republic.md"},
+		{"id":"019a7c02c2832d97","type":"text","text":"Career Skills: Athletics, Cool, Knowledge (Lore-Jedi), Meditation, Perception, Piloting (Space)\nSpecialization Career Skills: Charm, Cool, Leadership, Negotiation","x":-200,"y":-320,"width":900,"height":80}
+	],
+	"edges":[
+		{"id":"5a2daad7aa3438fa","fromNode":"b5b506ffeb60740b","fromSide":"bottom","toNode":"0c631e80acc6e899","toSide":"top","toEnd":"none"},
+		{"id":"6f966f7c5ade59de","fromNode":"0c631e80acc6e899","fromSide":"right","toNode":"34c2b602c08fdef3","toSide":"left","toEnd":"none"},
+		{"id":"13e9258f1dbcaebc","fromNode":"26bb01cb0c04a850","fromSide":"bottom","toNode":"67cf4060ce4edc61","toSide":"top","toEnd":"none"},
+		{"id":"fc4cb7621e3d762c","fromNode":"34c2b602c08fdef3","fromSide":"bottom","toNode":"69e8871170166a74","toSide":"top","toEnd":"none"},
+		{"id":"9819e7296f27fea3","fromNode":"69e8871170166a74","fromSide":"bottom","toNode":"83860c2ad707eef6","toSide":"top","toEnd":"none"},
+		{"id":"964c4ece50dd069a","fromNode":"83860c2ad707eef6","fromSide":"bottom","toNode":"2c0da17397f6a444","toSide":"top","toEnd":"none"},
+		{"id":"68facd94e75f7a50","fromNode":"2c0da17397f6a444","fromSide":"left","toNode":"7dac56cd9b1e99f9","toSide":"right","toEnd":"none"},
+		{"id":"c6e6de4b58d10832","fromNode":"69e8871170166a74","fromSide":"left","toNode":"e5312137f7cf1203","toSide":"right","toEnd":"none"},
+		{"id":"d322f1f85ee6718d","fromNode":"47d66ff88b287d27","fromSide":"top","toNode":"67cf4060ce4edc61","toSide":"bottom","toEnd":"none"},
+		{"id":"7c605a9ebb57bad0","fromNode":"4e3db21a92fcd606","fromSide":"right","toNode":"5582fd06990f545c","toSide":"left","toEnd":"none"},
+		{"id":"96103401f8f4cedc","fromNode":"5363b93ea340b692","fromSide":"bottom","toNode":"3c5d0c65f6011fbf","toSide":"top","toEnd":"none"},
+		{"id":"55bc50d008185492","fromNode":"47d66ff88b287d27","fromSide":"left","toNode":"5363b93ea340b692","toSide":"right","toEnd":"none"},
+		{"id":"22518b2ae209ed61","fromNode":"5363b93ea340b692","fromSide":"top","toNode":"f1d9379004e1d484","toSide":"bottom","toEnd":"none"},
+		{"id":"4624ceeee1632059","fromNode":"3c5d0c65f6011fbf","fromSide":"right","toNode":"4e3db21a92fcd606","toSide":"left","toEnd":"none"},
+		{"id":"3e546dc974812191","fromNode":"3c5d0c65f6011fbf","fromSide":"bottom","toNode":"36e419629308df2e","toSide":"top","toEnd":"none"},
+		{"id":"2a728e1f50e41552","fromNode":"36e419629308df2e","fromSide":"right","toNode":"75e15ac56dda77c6","toSide":"left","toEnd":"none"}
+	]
+}
